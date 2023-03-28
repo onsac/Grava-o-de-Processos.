@@ -2,12 +2,14 @@
 
 <p align="center">
   Utilizando o Selenium IDE
-  <br>
-  <a href="https://addons.mozilla.org/en-GB/firefox/addon/selenium-ide/"><strong>Baixar o Selenium »</strong></a>
-  </p>
-  
-## Configura Ansible 
-
-<p align="center">
-     <img src="https://github.com/onsac/AIO-Integrador/blob/master/Telas-Configura%C3%A7%C3%A3o/Telas-Asible/Tela-ansible(1).png" alt="Tela-ansible(1)" >
 </p>
+  
+## Configura Selenium IDE
+
+Baixar extensão do Selenium IDE no Firefox. 
+
+Link para acessar: <a href="https://addons.mozilla.org/en-GB/firefox/addon/selenium-ide/"></a>
+<p align="center">
+     <img src="https://github.com/onsac/Grava-o-de-Processos./blob/main/Imagens%20-%20Selenium%20IDE/01-%20Baixar%20Selenium%20Ide.jpeg" alt="Baixar Selenium IDE(1)" >
+</p>
+
